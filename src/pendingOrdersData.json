@@ -1,0 +1,160 @@
+{
+  "pendingOrders": [
+    {
+      "orderNumber": "ORD12345",
+      "orderDate": "2024-12-25",
+      "customerName": "John Doe",
+      "products": [
+        {
+          "productNumber": "P001",
+          "productName": "Verizon 5G Router",
+          "quantity": 1,
+          "price": 129.99,
+          "effectiveDate": "2024-12-15",
+          "status": "Pending Activation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P002",
+          "productName": "iPhone 15 Pro",
+          "quantity": 1,
+          "price": 999.99,
+          "effectiveDate": "2024-12-20",
+          "status": "Pending Shipment",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P003",
+          "productName": "Samsung Galaxy Watch 6",
+          "quantity": 2,
+          "price": 399.99,
+          "effectiveDate": "2024-12-28",
+          "status": "Pending Activation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P004",
+          "productName": "Verizon Fios TV Plan",
+          "quantity": 1,
+          "price": 79.99,
+          "effectiveDate": "2024-12-30",
+          "status": "Pending Installation",
+          "isChecked": false
+        }
+      ]
+    },
+    {
+      "orderNumber": "ORD67890",
+      "orderDate": "2024-12-26",
+      "customerName": "Jane Smith",
+      "products": [
+        {
+          "productNumber": "P005",
+          "productName": "Samsung Galaxy S23",
+          "quantity": 2,
+          "price": 799.99,
+          "effectiveDate": "2024-12-28",
+          "status": "Pending Shipment",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P006",
+          "productName": "Verizon Unlimited Data Plan",
+          "quantity": 1,
+          "price": 89.99,
+          "effectiveDate": "2024-12-29",
+          "status": "Pending Activation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P007",
+          "productName": "Apple iPad Air",
+          "quantity": 1,
+          "price": 599.99,
+          "effectiveDate": "2024-12-27",
+          "status": "Pending Shipment",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P008",
+          "productName": "Verizon Smart Home Bundle",
+          "quantity": 1,
+          "price": 199.99,
+          "effectiveDate": "2024-12-30",
+          "status": "Pending Activation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P009",
+          "productName": "Wireless Charging Dock",
+          "quantity": 3,
+          "price": 49.99,
+          "effectiveDate": "2024-12-29",
+          "status": "Pending Shipment",
+          "isChecked": false
+        }
+      ]
+    },
+    {
+      "orderNumber": "ORD11223",
+      "orderDate": "2024-12-24",
+      "customerName": "Alice Brown",
+      "products": [
+        {
+          "productNumber": "P010",
+          "productName": "Apple Watch Series 9",
+          "quantity": 1,
+          "price": 399.99,
+          "effectiveDate": "2024-12-27",
+          "status": "Pending Activation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P011",
+          "productName": "Verizon Fios Internet Plan",
+          "quantity": 1,
+          "price": 59.99,
+          "effectiveDate": "2024-12-30",
+          "status": "Pending Installation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P012",
+          "productName": "Google Pixel 8",
+          "quantity": 1,
+          "price": 699.99,
+          "effectiveDate": "2024-12-28",
+          "status": "Pending Shipment",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P013",
+          "productName": "Noise-Cancelling Headphones",
+          "quantity": 2,
+          "price": 299.99,
+          "effectiveDate": "2024-12-29",
+          "status": "Pending Activation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P014",
+          "productName": "Verizon Family Data Plan",
+          "quantity": 1,
+          "price": 129.99,
+          "effectiveDate": "2024-12-31",
+          "status": "Pending Activation",
+          "isChecked": false
+        },
+        {
+          "productNumber": "P015",
+          "productName": "Smart Thermostat",
+          "quantity": 1,
+          "price": 149.99,
+          "effectiveDate": "2024-12-30",
+          "status": "Pending Installation",
+          "isChecked": false
+        }
+      ]
+    }
+  ]
+}
